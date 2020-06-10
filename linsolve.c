@@ -50,3 +50,4 @@ int main()
 
     M_delete(A); M_delete(B); M_delete(X);
 }
+
