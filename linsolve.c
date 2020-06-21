@@ -2,8 +2,8 @@
  *
  *  SPARIV - Sparse and Matrix Library in C
  *
- *  Copyright (c) 2011-2020 Sethupathy Subramanian
- *  Copyright (c) 2019-2020 Sujata Bhowmick
+ *  Copyright (c) 2011 Sethupathy Subramanian
+ *  Copyright (c) 2019 Sujata Bhowmick
  *
  *  This file is part of SPARIV.
  *
