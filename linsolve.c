@@ -41,7 +41,7 @@ int main()
     M_disp(B);
     M_disp(X);
 
-    M_delete(A); M_delete(B); M_delete(X);
+    M_delete(A); M_delete(B);  M_delete(X);
 }
 
 
