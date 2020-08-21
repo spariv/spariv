@@ -1,7 +1,8 @@
-#----------------------------------------------------------------------#
-                 SPARIV - Sparse and Matrix Library in C 
-#----------------------------------------------------------------------#
 
-License : LGPLv3
-Language: C11 
+## SPARIV - Sparse & Matrix Library in C 
+
+License   : LGPLv3
+Language  : C11 
+
+Dependency: BLAS
 
