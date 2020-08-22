@@ -13,7 +13,7 @@ Dependency : BLAS
  - Faster development with explicit error messages 
 
 ----------------------------------------
-Syntax Conversion:
+Data Types:
 ----------------------------------------
 M_mat     : double matrix
 M_imat    : long matrix
