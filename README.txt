@@ -20,7 +20,6 @@ M_imat    : long matrix
 M_cxmat   : double complex matrix
 M_spmat   : sparse double matrix
 M_spcxmat : sparse double complex matrix
-
 ----------------------------------------
 Syntax Conversion:
 ----------------------------------------
