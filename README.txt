@@ -1,14 +1,13 @@
 
----------------------------------------
- SPARIV - Sparse & Matrix Library in C 
----------------------------------------
+------------------------------
+ SPARIV - Matrix Library in C 
+------------------------------
 
 Language   : C
 License    : GNU LGPLv2.1
 Dependency : BLAS
 
- - A Sparse & Matrix library written in C language and compatible with C++
+ - Matrix library written in C and compatible with C++
  - Syntax similar to MATLAB®/Octave
- - Integrated with Lapack, SuperLU and optionally integrated with BLAS
 
-----------------------------------------
+------------------------------
