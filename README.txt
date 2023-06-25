@@ -4,7 +4,7 @@
 ---------------------------------------
 
 Language   : C
-License    : GNU LGPLv3
+License    : GNU LGPLv2.1
 Dependency : BLAS
 
  - A Sparse & Matrix library written in C language and compatible with C++
